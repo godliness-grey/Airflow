@@ -71,7 +71,7 @@ See the query and result below...
 			LIMIT 1;
 	
 	
-![Query result](./highestViews.PNG)	
+![Query result](./highestViews1.PNG)	
 
 
 
